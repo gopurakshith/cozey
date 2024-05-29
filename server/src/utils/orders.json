@@ -1,0 +1,68 @@
+[
+    {
+        "orderId": 1021,
+        "orderTotal": 50,
+        "orderDate": "Mon 27th 2024",
+        "shippingAddress": "Montreal",
+        "customerName": "Jane",
+        "customerEmail": "Jane@gmail.com",
+        "lineItems": [
+            {
+                "lineItemId": 1,
+                "productId": "101",
+                "productName": "Valentines Box",
+                "price": 50
+            }
+        ]
+    },
+    {
+        "orderId": 1022,
+        "orderTotal": 90,
+        "orderDate": "Mon 27th 2024",
+        "shippingAddress": "Calgary",
+        "customerName": "John",
+        "customerEmail": "John@gmail.com",
+        "lineItems": [
+            {
+                "lineItemId": 1,
+                "productId": "101",
+                "productName": "Valentines Box",
+                "price": 50
+            },
+            {
+                "lineItemId": 2,
+                "productId": "102",
+                "productName": "Birthday Box",
+                "price": 40
+            }
+        ]
+    },
+    {
+        "orderId": 1023,
+        "orderTotal": 120,
+        "orderDate": "Mon 27th 2024",
+        "shippingAddress": "Toronto",
+        "customerName": "Jake",
+        "customerEmail": "Jake@gmail.com",
+        "lineItems": [
+            {
+                "lineItemId": 1,
+                "productId": "101",
+                "productName": "Valentines Box",
+                "price": 50
+            },
+            {
+                "lineItemId": 2,
+                "productId": "102",
+                "productName": "Birthday Box",
+                "price": 40
+            },
+            {
+                "lineItemId": 3,
+                "productId": "103",
+                "productName": "Client Gift Box",
+                "price": 30
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .section {
+    flex: 1;
+    margin: 20px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .title {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .shipment-container {
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .shipment-title {
+    color: #555;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .shipment-details {
+    margin-bottom: 5px;
+  }
+  
+  .sublist {
+    list-style-type: none;
+  }
+  
+  .sublist-item {
+    margin-bottom: 5px;
+  }
+  
+  .sublist-item span {
+    margin-right: 5px;
+    margin-left: 30px;
+  }
+  
+  .subsublist {
+    list-style-type: none;
+  }
+  
+  .subsublist-item {
+    margin-right: 5px;
+    margin-left: 35px;
+  }
+  
